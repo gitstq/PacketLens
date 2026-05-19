@@ -1,0 +1,3 @@
+# NetPulse - No external dependencies required
+# This project uses only Python standard library
+# Python 3.8+ recommended
